@@ -1,0 +1,16 @@
+useer = User.ner
+useer = User.new
+user = User.new(name:'test',email:'test@test')
+user.save
+User.create(name:'test2',email:'test2@test2')
+User.create(name:'test3',email:'test3@test3')
+user.update(name:'test10',email:'test@test10')
+user.destroy
+User.find(2)
+User.find_by(name:'test2')
+quit
+params
+params[:user]
+quit
+ls
+quit

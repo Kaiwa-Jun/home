@@ -1,0 +1,166 @@
+2021-02-06T13:17:34.751Z Warning: login is not a heroku command.
+2021-02-06T13:17:34.751Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-06T13:17:34.751Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-06T13:17:34.751Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-06T13:17:39.683Z Error: Run heroku help for a list of available commands.
+2021-02-06T13:17:39.683Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-06T13:17:39.683Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-06T13:17:39.683Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-06T13:18:20.016Z Warning: login is not a heroku command.
+2021-02-06T13:18:20.016Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-06T13:18:20.016Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-06T13:18:20.016Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-06T13:18:24.941Z Error: Run heroku help for a list of available commands.
+2021-02-06T13:18:24.941Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-06T13:18:24.941Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-06T13:18:24.941Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-06T13:20:53.916Z Warning: login is not a heroku command.
+2021-02-06T13:20:53.916Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-06T13:20:53.916Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-06T13:20:53.916Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-06T13:20:58.841Z Error: Run heroku help for a list of available commands.
+2021-02-06T13:20:58.841Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-06T13:20:58.841Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-06T13:20:58.841Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-06T13:21:05.838Z Warning: login is not a heroku command.
+2021-02-06T13:21:05.839Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-06T13:21:05.839Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-06T13:21:05.839Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-06T13:21:08.596Z Error: Unexpected argument: --interactive
+2021-02-06T13:21:08.596Z See more help with --help
+2021-02-06T13:21:08.596Z     at validateArgs (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2021-02-06T13:21:08.596Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:55:5)
+2021-02-06T13:21:08.596Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-06T13:21:08.596Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-06T13:21:08.596Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-06T13:21:08.596Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-02-07T03:10:17.888Z Warning: login is not a heroku command.
+2021-02-07T03:10:17.888Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T03:10:17.888Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T03:10:17.888Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T03:10:22.844Z Error: Run heroku help for a list of available commands.
+2021-02-07T03:10:22.844Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-07T03:10:22.844Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-07T03:10:22.844Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-07T10:19:50.543Z Warning: login is not a heroku command.
+2021-02-07T10:19:50.543Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:19:50.543Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:19:50.543Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:19:55.039Z Error: Unexpected argument: --interactive
+2021-02-07T10:19:55.039Z See more help with --help
+2021-02-07T10:19:55.039Z     at validateArgs (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2021-02-07T10:19:55.039Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:55:5)
+2021-02-07T10:19:55.039Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-07T10:19:55.039Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-07T10:19:55.039Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-07T10:19:55.039Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-02-07T10:20:51.768Z Warning: login is not a heroku command.
+2021-02-07T10:20:51.768Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:20:51.768Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:20:51.768Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:20:54.708Z Error: Run heroku help for a list of available commands.
+2021-02-07T10:20:54.708Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-07T10:20:54.708Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-07T10:20:54.708Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-07T10:24:25.446Z Warning: login is not a heroku command.
+2021-02-07T10:24:25.447Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:24:25.447Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:24:25.447Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:24:30.369Z Error: Run heroku help for a list of available commands.
+2021-02-07T10:24:30.369Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-07T10:24:30.369Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-07T10:24:30.369Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-07T10:25:50.786Z Warning: login is not a heroku command.
+2021-02-07T10:25:50.786Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:25:50.786Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:25:50.786Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:25:52.894Z Error: Unexpected argument: --interactive
+2021-02-07T10:25:52.894Z See more help with --help
+2021-02-07T10:25:52.894Z     at validateArgs (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2021-02-07T10:25:52.894Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:55:5)
+2021-02-07T10:25:52.894Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-07T10:25:52.894Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-07T10:25:52.894Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-07T10:25:52.894Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-02-07T10:26:14.894Z Error: Missing required flag:
+2021-02-07T10:26:14.894Z  -a, --app APP  app to run command against
+2021-02-07T10:26:14.894Z See more help with --help
+2021-02-07T10:26:14.894Z     at validateFlags (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:52:23)
+2021-02-07T10:26:14.894Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:56:5)
+2021-02-07T10:26:14.894Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-07T10:26:14.894Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-07T10:26:14.894Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-07T10:26:14.894Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-02-07T10:29:25.035Z Warning: login is not a heroku command.
+2021-02-07T10:29:25.035Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:29:25.035Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:29:25.035Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:29:29.960Z Error: Run heroku help for a list of available commands.
+2021-02-07T10:29:29.960Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-02-07T10:29:29.960Z     at Object.error (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:133:30)
+2021-02-07T10:29:29.960Z     at Object.hook (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-02-07T10:30:39.216Z Warning: login is not a heroku command.
+2021-02-07T10:30:39.216Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:30:39.216Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:30:39.216Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:30:43.617Z Error: Missing required flag:
+2021-02-07T10:30:43.617Z  -a, --app APP  app to run command against
+2021-02-07T10:30:43.617Z See more help with --help
+2021-02-07T10:30:43.617Z     at validateFlags (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:52:23)
+2021-02-07T10:30:43.617Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:56:5)
+2021-02-07T10:30:43.617Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-07T10:30:43.617Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-07T10:30:43.617Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-07T10:30:43.617Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-02-07T10:38:22.370Z Warning: login is not a heroku command.
+2021-02-07T10:38:22.370Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-02-07T10:38:22.370Z     at Object.warn (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/config/lib/config.js:136:30)
+2021-02-07T10:38:22.370Z     at Object.hook (/home/ec2-user/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-02-07T10:38:25.847Z Error: Unexpected argument: --interactive
+2021-02-07T10:38:25.847Z See more help with --help
+2021-02-07T10:38:25.847Z     at validateArgs (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2021-02-07T10:38:25.847Z     at Object.validate (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/validate.js:55:5)
+2021-02-07T10:38:25.847Z     at Object.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2021-02-07T10:38:25.847Z     at V5.parse (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:86:41)
+2021-02-07T10:38:25.847Z     at V5.run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2021-02-07T10:38:25.847Z     at V5._run (~/.nvm/versions/node/v10.23.1/lib/node_modules/heroku-cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021/02/07 11:28:48 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://powerful-headland-25674.herokuapp.com/ in your browser.
+    at err (/home/ec2-user/heroku/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/ec2-user/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:286:20)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+2021/02/07 12:55:10 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://powerful-headland-25674.herokuapp.com/ in your browser.
+    at err (/home/ec2-user/heroku/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/ec2-user/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:286:20)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+2021/02/08 12:16:44 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://powerful-headland-25674.herokuapp.com/ in your browser.
+    at err (/home/ec2-user/heroku/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/ec2-user/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:286:20)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+2021/02/08 12:22:16 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://powerful-headland-25674.herokuapp.com/ in your browser.
+    at err (/home/ec2-user/heroku/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/ec2-user/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:286:20)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)

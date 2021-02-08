@@ -1,0 +1,8 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = kaiwa
+	email = kj.11235813213455@gmail.com
