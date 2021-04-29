@@ -7,6 +7,7 @@
 --repo
 --repository
 --version
+--version
 -S
 -v
 abv
@@ -21,38 +22,12 @@ bump-formula-pr
 bump-revision
 bump-unversioned-casks
 cask
-cask --cache
-cask _help
-cask _stanza
-cask abv
-cask audit
-cask cat
-cask create
-cask doctor
-cask dr
-cask edit
-cask fetch
-cask help
-cask home
-cask homepage
-cask info
-cask instal
-cask install
-cask list
-cask ls
-cask outdated
-cask reinstall
-cask remove
-cask rm
-cask style
-cask uninstal
-cask uninstall
-cask upgrade
-cask zap
+casks
 cat
 cleanup
 command
 commands
+completions
 config
 configure
 create
@@ -73,7 +48,6 @@ help
 home
 homepage
 info
-instal
 install
 install-bundler-gems
 irb
@@ -101,11 +75,14 @@ pr-upload
 prof
 readall
 reinstall
+release
 release-notes
 remove
 rm
+rubocop
 ruby
 search
+services
 sh
 shellenv
 sponsors
@@ -119,7 +96,6 @@ test
 tests
 typecheck
 unbottled
-uninstal
 uninstall
 unlink
 unpack
@@ -128,8 +104,8 @@ untap
 up
 update
 update-license-data
+update-maintainers
 update-python-resources
-update-report
 update-reset
 update-test
 upgrade

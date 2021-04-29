@@ -56,3 +56,4 @@
 0.4.12 binding_of_caller:~> 0.7,pry:~> 0.13|checksum:46d5f66fb8fd1933ca11b8a11c56326692de5b875a5edb6b0deefb3dedf34327,ruby:>= 2.0.0
 0.4.13 binding_of_caller:~> 0.7,pry:~> 0.13|checksum:a6b9bd49e4a772fe5002c10c013428a49109479bdbe974181ae2f6b855747c22,ruby:>= 2.5.0
 0.6.0 binding_of_caller:~> 1.0,pry:~> 0.13|checksum:1b8501151f07c6c5fee33864ff148e1cd752ee0f384e4256345eeefdd7a94408,ruby:>= 2.6.0
+0.6.1 binding_of_caller:~> 1.0,pry:~> 0.13|checksum:a2dbea9b47c4ad00cf5c1ce21499f8128b915089e90015f7bafb6e9453baf340,ruby:>= 2.6.0

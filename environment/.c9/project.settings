@@ -3,7 +3,8 @@
         "@tabSize": 2
     },
     "extensions": {
-        "@aws.profile": "profile:default"
+        "@aws.profile": "",
+        "@git.ignoreLimitWarning": true
     },
     "instance": {
         "@automaticShutdown": "30"

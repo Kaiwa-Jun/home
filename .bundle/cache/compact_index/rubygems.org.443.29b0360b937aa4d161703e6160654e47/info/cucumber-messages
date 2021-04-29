@@ -41,3 +41,8 @@
 13.2.0 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:6d89396094cc6cf3d8ab693511a2de2163690bd2abc2c8ddaa746a2a4706e6c3,ruby:>= 2.3
 13.2.1 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:951f0475beb508549cb8cb9820c5fe716737e8dbeeb39e4630676911c8d6fe0b,ruby:>= 2.3
 14.0.0 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:3b3fa229cc5d0b18391facf87b9dc5a26a2c25208f84b1a1cfc70bf3f0b1e0b6,ruby:>= 2.3
+14.0.1 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:1eb231a3cca234d50883f29f16ea78e5f91738bb168d42bdf3b3e6a231d0edde,ruby:>= 2.3
+14.1.0 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:7421675347082acb8d3fd2c66341eea35328edcff036f7245c121124a749e4c3,ruby:>= 2.3
+14.1.1 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:fc552ebc2f2eef8b0dbbeb9bf4f5406cb186dfdc2a266b613efe1c1ca3a93a63,ruby:>= 2.3
+14.1.2 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:6121449ea720740b93de1813d140c83d755f9a343b576500849b93329f180c75,ruby:>= 2.3
+15.0.0 protobuf-cucumber:>= 3.10.8&~> 3.10|checksum:4fa91b62581141d9fc01b3760b5be6ee03af2ec8095a8ed631c8ecfa8a8c7bc7,ruby:>= 2.3

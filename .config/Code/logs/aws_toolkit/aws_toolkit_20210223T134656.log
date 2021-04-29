@@ -1,0 +1,15 @@
+2021-02-23 13:46:57 [INFO]: log level: info
+2021-02-23 13:46:57 [INFO]: Retrieving AWS endpoint data
+2021-02-23 13:46:57 [INFO]: OS:  Linux x64 4.14.219-119.340.amzn1.x86_64
+AWS Cloud9 Extension Host Version:  1.42.0
+AWS Toolkit Version:  1.16.0-SNAPSHOT
+
+2021-02-23 13:46:57 [INFO]: telemetry cache not found: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/telemetryCache'
+2021-02-23 13:47:29 [ERROR]: Error trying to connect to AWS with Credentials Provider profile:default. Toolkit will now disconnect from AWS. [Error: Could not find Credentials Provider for profile:default
+	at t.LoginManager.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/a385217dec929cb6f4da501303023ca5fb8ccc34cbdec643dca5325a4cd523754a1ee97037beb84078fee86bbc27304a86d5907331704af20eb0f6ad44bd43d8/dist/extension.js:2:7368654)
+	at Generator.next (<anonymous>)
+	at o (/opt/c9/dependencies/aws-toolkit-vscode/a385217dec929cb6f4da501303023ca5fb8ccc34cbdec643dca5325a4cd523754a1ee97037beb84078fee86bbc27304a86d5907331704af20eb0f6ad44bd43d8/dist/extension.js:2:7367979)]
+2021-02-23 13:47:30 [INFO]: Setting log level to: info
+2021-02-23 13:47:30 [INFO]: Log level is now: info
+2021-02-23 13:51:57 [INFO]: Successfully sent a telemetry batch of 4
+2021-02-23 13:56:58 [INFO]: Successfully sent a telemetry batch of 1

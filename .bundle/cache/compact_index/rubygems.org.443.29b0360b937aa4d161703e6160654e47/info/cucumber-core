@@ -29,3 +29,4 @@
 7.0.0 cucumber-gherkin:>= 13.0.0&~> 13.0,cucumber-messages:>= 12.1.1&~> 12.1,cucumber-tag-expressions:>= 2.0.4&~> 2.0|checksum:8a1ea6c880a64194ea4298d40b92421f169713b2fa153ff1a84f384978ba253b,ruby:>= 2.3
 7.1.0 cucumber-gherkin:>= 14.0.1&~> 14.0,cucumber-messages:>= 12.2.0&~> 12.2,cucumber-tag-expressions:>= 2.0.4&~> 2.0|checksum:e5fc20a68c0a4af6b03c2c214e3f4c007296b31e4c62c72c75fa1270fa67183d,ruby:>= 2.3
 8.0.1 cucumber-gherkin:>= 15.0.2&~> 15.0,cucumber-messages:>= 13.0.1&~> 13.0,cucumber-tag-expressions:>= 2.0.4&~> 2.0|checksum:24c2511a8c51e57435805df1a67d09d3bf7052c1c69bad2bb543b74369525520,ruby:>= 2.3
+9.0.0 cucumber-gherkin:>= 18.1.0&~> 18.1,cucumber-messages:>= 15.0.0&~> 15.0,cucumber-tag-expressions:>= 3.0.1&~> 3.0|checksum:910a3d6a38d26b3e3d1651460521b34d27745fabe4e76ef6bcf269e16581a3d3,ruby:>= 2.3

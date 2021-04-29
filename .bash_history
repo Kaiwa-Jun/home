@@ -720,3 +720,1507 @@ ls
 git init
 git add .
 git init
+git reset --hard 800c9041466dcc18eb07601d8249f83e68805342
+ls
+cd charizard/
+ls
+git branch
+git checkout master
+git stash
+git checkout master
+git checkout .
+git checkout master
+git checkout develop
+git checkout master
+git clean -f
+git checkout master
+cd ..
+ls
+touch bookband
+cd bookband 
+ls
+rm bookband 
+mkdir bookband
+cd bookband/
+ls
+touch sample
+ls
+git init
+git add .
+git git commit -m "first_commit"
+git commit -m "first_commit"
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+ls
+rails new bookband -d mysql
+cd bookband/
+ls
+rails db:create
+rails s
+bundle install
+rails g sorcery:install
+rake db:migrate
+rake db:create
+rails g sorcery:install
+rails g scaffold user email:string crypted_password:string salt:string --migration false
+ls
+git init
+git add .
+git commit -m "sorcery導入"
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+git log
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+git push origin :master
+git push origin :branch-name
+git push origin master
+git push -u origin master
+git init
+git add .
+git commit -m 'sorcery'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+git fetch
+git push -u origin master
+git merge origin/master
+git merge --allow-unrelated-histories origin/master
+git push -u origin master
+rails g scaffold user email:string crypted_password:string salt:string --migration false
+rails g controller UserSessions new create destroy
+rails s
+bundle
+rake db:create
+rails s
+bin/rails db:migrate RAILS_ENV=production
+rails credentials:edit
+rails s
+bundle install
+rails s
+rails g model User
+rails db:migrate
+rails s
+bundle install
+rails s
+bundle install
+rails s
+ls
+git init
+git add .
+git commit -m 'set_login'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+rails s
+git log
+rails db:rollback
+rails db:migrate
+rails s
+rails console
+rails s
+rails console
+rails s
+git log
+bundle
+rake db:create
+rails d sorcery:install
+bundle install
+rails d sorcery:install
+rails g sorcery:install
+rake db:migrate
+rails s
+rake db:migrate
+rails s
+rails db:migrate
+rails s
+rake db:reset
+rails db:migrate
+rails s
+rake db:migrate
+rails s
+bundle install
+rails s
+rails d sorcery:install
+rails s
+rake db:migrate
+rails s
+rails db:migrate
+rails s
+rails console
+rails db:migrate
+rails s
+rails d sorcery:install
+rails s
+rails d sorcery:install
+rails db:migrate
+rails s
+rails d sorcery:install
+rails s
+rake db:migrate
+rails d sorcery:install
+rails s
+rails db:migrate
+rails s
+rails console
+ls
+cd bookband/
+ls
+cd bookband/
+ls
+php artisan migrate:status
+ls
+cd bookband/
+ls
+rails db:migrate:status
+cd bookband/
+ls
+rails db:migrate:status
+cd bookband/bookband/
+ls
+rails s
+rails db:rollback
+rails db:migrate
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails db:rollback
+rails db:migrate
+rails s
+rails db:migrate:status
+rails db:rollback
+rails db:migrate
+rails s
+rails 
+rails s
+git init
+git add .
+git commit -m 'set_login'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+rails g sorcery:install
+rails s
+rails db:migrate
+rails s
+rake db:migrate
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails db:migrate RAILS_ENV=development
+rails s
+git branch development
+ls
+git branch
+git checkout development
+git branch
+git branch master
+git branch
+git branch master
+git checkout master
+git branch
+rails db:migrate:status
+bin/rails db:migrate VERSION=20210222145135
+rails db:migrate:status
+ls
+rails db:migrate
+rails db:migrate:status
+rails db:rollback
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:status
+rails s
+rails db:rollback
+rails db:migrate
+rails s
+rake db:migrate
+rails s
+rails db:migrate:status
+ls
+git init
+git add .
+git commit -m 'login機能途中'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push -u origin master
+git branch development
+git branch
+git checkout development
+git checkout master
+git branch
+git checkout development
+git branch
+git marge master
+git merge master
+git push origin development
+git checkout master
+git branch
+git branch set_API
+git branch
+git checkout set_API
+ls
+bundle install
+rake haml:replace_erbs
+rails g controller reviews show new
+rails g model Review name:string author:string review:text image_url:string introduction:text
+rails db*migrate
+rails db:migrate
+rails db:migrate:status
+ls
+rails s
+cd bookband/bookband/
+ls
+rails s
+ls
+git init
+git add .
+git commit -m 'API導入'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin set_API
+cd bookband/bookband/
+cd ..
+ls
+cd bookband/
+git checkout master
+ls
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+ls
+rails db:migrate:status
+rake db:migrate:up VERSION=20210222145135
+rails db:migrate:status
+rails s
+rails db:migrate RAILS_ENV=development
+rails db:drop
+rails db:create
+rails db:migrate
+rails s
+rails db:drop
+rails db:create
+rails db:migrate
+rails db:drop
+rails db:create
+rails db:migrate
+rails s
+git init
+git add .
+git commit -m 'login搭載済'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git branch
+git checkout set_API
+ls
+git checkout master
+ls
+cd bookband/bookband/
+ls
+git branch
+git checkout set_API
+rails s
+git branch 
+git merge master
+rails s
+rails db:migrate:reset
+rails s
+git checkout master
+rails s
+rails routes
+rails s
+rails routes
+rails s
+ls
+git init
+git add .
+git commit -m 'session完了'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git branch
+git checkout set_API
+ls
+git merge master
+rails s
+rails routes
+rails s
+git log
+git branch
+git checkout development
+git merge master
+git checkout development
+git checkout master
+git init
+git add .
+git commit -m 'API途中'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin set_API
+git checkout master
+rails s
+ls
+git branch
+git checkout development
+git merge master
+git checkout master
+ls
+git branch -d set_API
+git branch -D set_API
+git branch
+git branch makeapi
+git checkout makeapi
+git merge master
+ls
+rails s
+git branch
+mv ../up.rb .
+ls
+rails new book_review
+rails new book_review  
+rails 
+cd ../
+ls
+rails new book_review  
+ls
+cd book_review/
+ls
+git init
+git add .
+git commit -m 'make_book_review'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git push origin :master
+git push origin master
+ls
+git log
+ls
+vi Gemfile
+cd bookband/book_review/
+ls
+bundle install
+git branch
+git log
+rake haml:replace_erbs
+rails g controller reviews show new
+# showとnewを記述することで、show.html.haml,new.html.hamlも同時に作成してくれます。
+ls
+cd bookband/
+ls
+cd book_review/
+ls
+git branch
+cd ,,
+ks
+ls
+cd ..
+ls
+git branch
+cd ..
+ls
+git branch
+cd bookband/book_review/
+ls
+rails routes
+rails g model Review name:string author:string review:text image_url:string introduction:text
+rails db:migrate
+rails s
+rails routes
+rails s
+ls
+git init
+git add .
+git commit -m 'make_review1'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+ls
+cd ../bookband/
+ls
+git branch
+cd ..
+ls
+cd book_review/
+ls
+git branch
+git config -l 
+git push
+git branch
+git init
+git add .
+git commit -m 'set_api'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin master
+rails s
+ls
+cd ..
+ls
+cd bookband/
+ls
+git status
+git add .
+git push
+git branch
+git log
+git checkout development
+git status
+git log
+git add .
+git commit -m 'commit develop'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin development
+git status
+git checkout master
+git status
+git checkout makeapi
+git status
+ls
+cd ..
+ls
+cd book_review/
+ls
+git branch
+cd ..
+cd bookband/
+ls
+cd cd ..
+cd ..
+ls
+cd book_review/
+ls
+git status
+git branch make-review
+git branch
+git checkout make-review
+ls
+rails s
+git add .
+git commit -m 'set_routes'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin make-review
+rails s
+ls
+cd bookband/book_review/
+ls
+git branch
+rails s
+ls
+cd bookband/
+ls
+cd book_review/
+ls
+rails s
+git branch
+ls
+cd bookband/book_review/
+ls
+git branch
+ls
+rails s
+cd bookband/
+ls
+cd book_review/
+ls
+rails s
+ls
+cd bookband/
+ls
+cd bookband/
+ls
+git branch
+cd ../book_review/app/
+sl
+ls
+cd assets/javascripts/
+ls
+ruby review.js.erb 
+ls
+cd bookband/
+ls
+cd book_review/
+ls
+git branch
+git status
+git add .
+git commit -m 'rakutenapi1'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push
+git push origin make-review
+git branch master
+git branch
+git checkout master
+git branch
+git merge make-review
+git checkout make-review
+ls
+bundle install
+ls
+ruby rakutenapi.rb 
+ls
+cd bookband/
+ls
+cd book_review/
+ls
+ruby rakutenapi.rb 
+find ./ initi*
+ls
+git add .
+git commit -m 'set_aplicationID' 
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin make-review
+ls
+git status
+mv rakutenapi.rb ./config/initializers/
+cd config/initializers/
+ls
+rails g controller api/v1/Books
+ruby rakutenapi.rb 
+rails s
+rails routes
+rails s
+rails routes
+rails s
+cd ..
+ls
+git add .
+git commit -m '楽天API'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin make-review
+rails s
+rake haml:replace_erbs
+rails s
+rails routes
+git status
+ls
+git add .
+git commit -m '本情報取得'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin make-review
+git status
+cd .
+cd ..
+ls
+cd bookband/
+ls
+git branch
+git status
+git add .
+git commit -m 'set_rakutenAPI'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git status
+ls
+git branch
+rails g model Book title:string author:string isbn:bigint url:string image_url:string
+rails g db:migrate
+rails db:migrate
+rails db:migrate:status
+rails g model Review content:string user:references book:references
+rails db:migrate
+rails db:migrate:status
+rails db:migrate:reset
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:reset
+rails db:migrate:status
+rails db:rollback
+rails db:migrate
+rails db:rollback
+rails db:migrate
+rails db:rollback
+mysql
+mysql> select * from schema_migrations;
+rails db:rollback
+rails db:migrate
+rails db:rollback
+rails db:migrate
+rails s
+rails c
+rake db:migrate
+rails s
+bin/rails db:migrate RAILS_ENV=development
+RAILS_ENV=development rails db:drop
+RAILS_ENV=development rails db:create
+RAILS_ENV=development rails db:migrate
+rails db:migrate:status
+bundle exec rake db:migrate:up VERSION=20210307015619 RAILS_ENV=test
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+rails g model Review content:string user:references book:references
+rails db:migrate
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:status
+rails s
+rails routes
+rails s
+rails g controller books
+git add .
+git commit -m 'books_controller書く前'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+ls
+rails s
+git add .
+git commit -m 'set_books_controller'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git status
+ls
+rails s
+rails routes
+rails s
+rails routes
+cd app/views/
+ls
+mv search.html.erb ./users/
+ls
+rails s
+git add .
+git commit -m '検索ページ表示'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+ls
+cd bookband/
+ls
+cd bookband/
+ls
+rails s
+ls
+cd bookband/
+ls
+cd bookband/
+ls
+rails s
+bundle install
+rails s
+git add .
+git commit -m '検索ページ表示2'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+ls
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails db:migrate
+rails db:rollback
+rails db:migrate
+rails db:migrate:reset
+rails db:migrate:status
+rails db:migrate:reset
+rails db:migrate:status
+rails g controller reviews
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+cd bookband/bookband/
+ls
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+rails s
+git add .
+git commit -m 'レビューページ表示途中'
+git status
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+ls
+git add .
+git commit -m 'レビュー画面表示'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git status
+ls
+rails s
+cd bookband/bookband/
+ls
+rails s
+git add .
+git commit -m 'レビュー途中'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+cd bookband/bookband/
+ls
+rails s
+ls
+git add .
+git 
+git comment -m 'レビュー途中2'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git status
+git add .
+git comment -m 'レビュー途中2'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git status
+cd bookband/bookband/
+ls
+git status
+git add .
+git commit -m 'レビュー実装途中'
+ssh -T git@github.com
+git push origin makeapi
+rails s
+ls
+cd
+ls
+cd environment/
+ls
+cd pictgram/
+ls
+rails s
+cd
+ls
+cd environment/bookband/bookband/
+ls
+rails s
+rails routs
+rails routes
+rails s
+git log
+git add .
+git commit -m "set.review"
+git status
+git log
+git revert 121fcc5d1d04c6be6e90229b121361580d87117c
+y
+git log
+ls
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails routs
+rails routes
+cd bookband/bookband/
+ls
+rails s
+rails routes
+rails s
+rails routes
+rails s
+git add .
+git commit -m 'レビュー表示仮ok'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+git add .
+git commit -m 'set一覧表示'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+db:migrate:reset
+rails db:migrate:reset
+rails s
+rails g model like review:references user:references
+rails db:migrate
+rails db:status
+rails db:migrate:reset
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:status
+rails db:migrate:reset
+rails db:drop
+rails db:create
+rails db:migrate
+rails db:migrate:status
+cd
+rails db:environment:set RAILS_ENV=development
+ls
+cd environment/
+ls
+cd bookband/bookband/
+ls
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:status
+ls
+cd bookband/bookband/
+ls
+rails db:migrate:status
+rails db:migrate:reset
+rails db:drop
+rails db:check_protected_environments
+bin/rails db:environment:set RAILS_ENV=development
+rails db:migrate:status
+rails db:check_protected_environments
+rails db:migrate:status
+git add .
+git commit -m 'make_like_model'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails g controller likes
+rails routes
+rails s
+rails g migration AddidToreviews id:integer
+rails db:migrate:reset
+rails db:migrate:status
+rails db:migrate:reset
+bin/rails db:environment:set RAILS_ENV=development
+rails db:migrate:status
+rails db:migrate:reset
+bin/rails db:environment:set RAILS_ENV=development
+rails db:migrate:status
+rails db:migrate:reset
+bin/rails db:environment:set RAILS_ENV=development
+rails db:migrate:status
+rails db:migrate:reset
+rails db:migrate:status
+rails s
+rails routes
+rails s
+git add .
+git commit -m 'like実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+rails routes
+rails s
+rails routes
+rails s
+rails routes
+rails s
+cd bookband/bookband/
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+rails db:rollback
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:reset
+rails db:migrate:status
+rails db:migrate
+rails db:migrate:reset
+bin/rails db:environment:set RAILS_ENV=development
+rails db:migrate:status
+rails db:migrate:reset
+rails db:migrate
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+rails db:migrate
+rails ss
+rails s
+rails db:migrate
+rails s
+rails db:migrate
+rails s
+rails db:migrate
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails db:migrate
+git add .
+git commit -m 'review_problem_book_id'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails routes
+rails s
+rails db:rollback
+rails db:migrate
+git add .
+git commit -m 'レビュー一覧へ移動できない'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+cd bookband/bookband/
+ls
+rails routes
+cd bookband/bookband/
+rials routes
+rails routes
+rails s
+git add .
+git commit -m 'レビュー一覧表示できない'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+cd bookband/bookband/
+cd bookband/bookband/
+rails routes
+rails s
+git add .
+git commit -m 'レビュー実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+rails routes
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+bundle install
+rails acts_as_taggable_on_engine:install:migrations
+rails acts_as_taggable_on_engine:tag_names:collate_bin
+rails db:migrate
+rails db:seed
+rails s
+rails db:migrate:status
+mv app/views/books/books.new.html.haml ./app/views/
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+git log
+rails s
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+rails db:rollback
+rails db:migrate
+rails db:migrate:status
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails db:rollback
+rails db:migrate
+rails s
+git add .
+git commit -m 'ジャンル途中'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+cd bookband/bookband/
+rails routes
+rails s
+cd bookband/bookband/
+ls
+rails routes
+rails s
+ls
+git status
+git branch
+git checkout master
+git add .
+git commit -m 'いいね実装完了'
+git checkout master
+git log
+git status
+git branch
+git merge makeapi
+git branch genre
+git checkout genre
+ls
+raisls s
+raisl s
+rails s
+git checkout genre
+git branch
+cd bookband/bookband/
+ls
+git branch
+rails routes
+cd bookband/bookband/
+ls
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+cd bookband/bookband/
+ls
+rails routes
+git add .
+git commit -m 'genre.firstcommit'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git log
+ls
+git branch
+git checkout master
+git branch likes
+git checkout likes
+ls
+rails ss
+rails s
+git add .
+git commit -m 'いいねソート実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin likes
+git checkout genre
+git log
+git add .
+git commit -m 'ジャンル検索仮'
+git log
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin genre
+git checkout master
+git status
+git merge likes
+git branch
+rails s
+git branch
+git branch search
+git  branch
+git checkout search
+ls
+rails s
+git add .
+git commit -m '作者検索実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin search
+git branch
+git checkout master
+git merge search
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+git branch
+rails s
+git  branch
+git checkout makeapi
+ls
+rails sample.rb 
+ls
+rails sample.rb 
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+cd bookband/bookband/
+rails s
+rails c
+rails s
+rails db:seed
+rails s
+rails c
+rails c sample.rb 
+ruby sample.rb 
+irb
+ruby sample.rb 
+rails s
+cd bookband/bookband/
+rails s
+rails c
+ruby sample.rb 
+rails c
+irb
+irb sample.rb 
+rails c
+rails c sample.rb 
+irb sample.rb 
+rails s
+rails sample.rb 
+irb
+rails c
+irb
+rails s
+rails db:seed
+rails s
+git add .
+git commit -m '001004ジャンル表示だけok'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+raisl s
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails db:migrate:status
+rails s
+rails db:migrate
+rails s
+rails g migration AddBook_genre_idToBooks book_genre_id:string
+rails db:migrate
+rails db:migrate:status
+rails s
+git branch
+git add
+git add .
+git commit -m 'ジャンル検索途中'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git branch
+git checkout master
+git checkout search
+ls
+git checkout master
+git branch
+git checkout search
+cd bookband/bookband/
+ls
+rails routes
+rails s
+git add .
+git commit -m 'ログイン必須条件搭載'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin search
+git branch
+git checkout makeapi
+ls
+rails s
+rails s
+cd bookband/bookband/
+ls
+rails s
+cd bookband/bookband/
+ls
+rails s
+git branch
+git checkout search
+git add .
+git commit -m 'genre表示されない'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git branch
+git checkout search
+ls
+rails s
+git add .
+git commit -m '検索タイトル著者まとめた'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin search
+git branch
+git checkout makeapi
+rails s
+cd bookband/bookband/
+ls
+rails s
+rails db:reset
+rails s
+raisl s
+rails s
+cd bookband/bookband/bin/
+ls
+cd ..
+ls
+rails s
+s
+ls
+rails s
+rails server -h
+rails s
+exit
+rails s
+cd bookband/bookband/
+ls
+rails s
+raisl s
+rails s
+cd bookband/bookband/bin/
+cd ..
+ls
+git branch
+git checkout master
+rails s
+rails 
+rails s
+cd bookband/bookband/
+ls
+rails s
+git add .
+git commit -m 'タイトルokジャンルまだ'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git checkout master
+git branch
+git branch design
+gitt checkout design
+git checkout design
+cd bookband/bookband/
+ls
+rails sroutes
+rails routes
+rails s
+rails server -h
+rails s
+exit
+rails s
+cd bookband/bookband/
+ls
+rails routes
+rails s
+exit
+cd bookband/bookband/
+ls
+rails routes
+rails db:reset
+rails s
+rails db:reset
+rails s
+git add .
+git commit -m 'design.first.commit'
+git branch
+git checkout makeapi
+rails s
+rails db:reset
+rails s
+git branch
+git checkout design
+rails s
+git add .
+git commit -m 'design途中'
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin design
+git branch
+git checkout makeapi
+rails s
+git checkout design
+rails s
+git add .
+git commit -m 'ログイン表示okログインできない'
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin design
+ls
+rails s
+git branch
+git checkout makeapi
+git add .
+git commit -m 'authenticate.error'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin design
+git checkout makeapi
+rails s
+rails db:reset
+rails s
+cd bookband/bookband/
+ls
+cd bookband/bookband/
+ls
+rails routes
+rails s
+git branch
+git checkout master
+rails s
+git add .
+git commit -m 'genre実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin makeapi
+git checkout master
+git merge makeapi
+ls
+rails s
+git branch
+git checkout makeapi
+git add .
+git commit -m 'ジャンル実装'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband2.git
+git push origin master
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git pull origin master
+git push origin master
+rails s
+brew services start postgresql
+brew tap homebrew/services
+rails s
+brew services start postgresql
+brew tap homebrew/services
+rails s
+brew tap homebrew/services
+brew services start postgresql
+rails s
+sudo service postgresql start
+rails s
+postgres -D /usr/local/var/postgres
+find / -name postmaster.pid
+cd
+ls
+cd environment/
+ls
+cd
+ls
+cd environment/bookband/bookband/
+ls
+postgres -D /usr/local/var/postgres
+vi ~/.bash_profile
+rails s
+cd bookband/bookband/
+ls
+rails s
+postgres -D /usr/local/var/postgres
+echo $PATH
+vim ~/.bash_profile
+find -name postmaster.pid
+find / -name postmaster.pid
+cd /run/docker/
+postgres -D /usr/local/var/postgres
+git status
+rails s
+locate psql | grep /bin
+echo $PATH
+echo export PATH='/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH' >> ~/.bash_profile
+source ~/.bash_profile
+exit
+rails s
+cd bookband/bookband/
+ls
+rails s
+gem install bundler
+sudo gem install bundler
+rails s
+git status
+rails s
+postgres -D /usr/local/var/postgres
+cd bookband/bookband/
+ls
+rails s
+bundler -v
+gem install bundler
+gem install bundler -v 1.16.0
+rails s
+gem update -h
+gem update --system 2.1.0
+sudo gem update --system 2.1.0  
+sudo gem pristine --all 
+rails s
+git status
+bundle install
+bundle update
+bundle install --path vendor/bundle
+git log
+bundle update mimemagic
+ruby -v
+bundle install --path vendor/bundle
+rvm list
+ruby -v
+rvm remove 2.0.0-p648
+ruby -v
+bundle install --path vendor/bundle
+bundle update mimemagic
+bundle update
+bundle install --path vendor/bundle
+rails s
+find postmaster.pid
+find post*
+postgres -D /usr/local/var/postgres
+psql -l
+cd
+cd environment/bookband/bookband/
+ls
+brew services start postgresql
+rails s
+postgres --version
+bundle install
+rails s
+git log
+git status
+git add .
+ git submodule add <url> environment/bookband/bookband/vendor/bundle/ruby/2.0/bundler/gems/sorcery-43efa3329e61
+git add .
+git commit -m 'mysqlバグ解消'
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+ls
+git status
+cd
+git add .
+cd environment/bookband/bookband/
+ls
+git add .
+git log
+ls
+ssh -T git@github.com
+git remote add origin git@github.com:Kaiwa-Jun/bookband.git
+git push origin master
+git status

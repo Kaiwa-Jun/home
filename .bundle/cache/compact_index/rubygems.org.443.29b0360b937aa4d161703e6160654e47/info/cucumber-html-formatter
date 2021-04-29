@@ -12,3 +12,5 @@
 11.0.0 cucumber-messages:>= 13.2.1&~> 13.2|checksum:cadec355f01c67b2b314800ec09558f5e7659148a5fda2536b6d26550be63230,ruby:>= 2.3
 11.0.1 cucumber-messages:>= 13.2.1&~> 13.2|checksum:0c4448b9d9e52ed549709285933a413a63a6ec8c04e456626fc34adef9b446dd,ruby:>= 2.3
 11.0.2 cucumber-messages:>= 13.2.1&~> 13.2|checksum:cf59bec12b4765b9853351a151f8ed7990ad71b2000f6ca725e1b4fa12f0f959,ruby:>= 2.3
+12.0.0 cucumber-messages:>= 14.0.1&~> 14.0|checksum:793fdf9f8ba845dc71197ca8bd7c45a0f68aeecb0f3a0d2c6c6184c5f466fc62,ruby:>= 2.3
+13.0.0 cucumber-messages:>= 15.0.0&~> 15.0|checksum:51922b8ab0bd911c2986b0bab0db01e7aae83a995c90755736e5524bfeb943cd,ruby:>= 2.3

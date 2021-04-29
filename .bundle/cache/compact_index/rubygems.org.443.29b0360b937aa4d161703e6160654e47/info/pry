@@ -469,3 +469,7 @@
 0.13.0-java coderay:~> 1.1,method_source:~> 1.0,spoon:~> 0.0|checksum:7be9d117c255e75a6ff9751480879c1cc7a75ab57d33b9f0f0b72c1711619064,ruby:>= 1.9.3
 0.13.1 coderay:~> 1.1,method_source:~> 1.0|checksum:1393918c415af46b6d09044d2b78dde92b29bc834fd85c369a950bab0826dc47,ruby:>= 1.9.3
 0.13.1-java coderay:~> 1.1,method_source:~> 1.0,spoon:~> 0.0|checksum:9612d825e2c3bc160633b2a4fae21041126ee33f1ac8035c851417e561b2b46c,ruby:>= 1.9.3
+0.14.0 coderay:~> 1.1,method_source:~> 1.0|checksum:3b5e50b6b5e114218d7a103f6b37afbc24da62a61ad17b79a0899dd7dc1e18ea,ruby:>= 1.9.3
+0.14.0-java coderay:~> 1.1,method_source:~> 1.0,spoon:~> 0.0|checksum:432e2a91aa623d43f1a7fe4859b8a12e9c9303dcf9814cc7424ea64d02c91a1b,ruby:>= 1.9.3
+0.14.1 coderay:~> 1.1,method_source:~> 1.0|checksum:99b6df0665875dd5a39d85e0150aa5a12e2bb4fef401b6c4f64d32ee502f8454,ruby:>= 1.9.3
+0.14.1-java coderay:~> 1.1,method_source:~> 1.0,spoon:~> 0.0|checksum:b12bd54504097df565967772871dfe328da826dd356ce19699b3304f546ea000,ruby:>= 1.9.3

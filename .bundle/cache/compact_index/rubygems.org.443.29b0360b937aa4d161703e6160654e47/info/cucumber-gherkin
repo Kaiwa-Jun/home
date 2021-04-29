@@ -13,3 +13,9 @@
 15.0.1 cucumber-messages:>= 13.0.1&~> 13.0|checksum:b35075fd56f848dabc8a4902bcb135e4fb6cd7c65c225e0458b494837bfb1440,ruby:>= 2.3
 15.0.2 cucumber-messages:>= 13.0.1&~> 13.0|checksum:94a6ec77c16628dac2b023d9220e84f96c5d3a3aa1a892b1f3ad790064f5e554,ruby:>= 2.3
 16.0.0 cucumber-messages:>= 13.2.1&~> 13.2|checksum:b25da442bde92368f71a8ce44e89b28be737cca804e74343ff2e352eac01284e,ruby:>= 2.3
+17.0.0 cucumber-messages:>= 14.0.0&~> 14.0|checksum:1405dacf9784512ff3032983955843bbbe4af49d3f9d0a98f70805bf5c896e62,ruby:>= 2.3
+17.0.1 cucumber-messages:>= 14.0.1&~> 14.0|checksum:b95aaff1358b594dbf0da7fca0611cea8467c44d678b88af16b66d01890ef5d6,ruby:>= 2.3
+17.0.2 cucumber-messages:>= 14.0.1&~> 14.0|checksum:d6c36c79a4511f9bbd97c82987c25ba33c3bc6558b5cd7e2820d01b13b37f137,ruby:>= 2.3
+18.0.0 cucumber-messages:>= 15.0.0&~> 15.0|checksum:b841a983af3ba38924e0b276c850c21b342071225e9e20634fa498a52a8d7b51,ruby:>= 2.3
+18.1.0 cucumber-messages:>= 15.0.0&~> 15.0|checksum:97aac12890d5c3aba291f0496d5df9097d69f9e26abb86d2f84065e63c667271,ruby:>= 2.3
+18.1.1 cucumber-messages:>= 15.0.0&~> 15.0|checksum:7ffa614136cb226b33832d152a4b98bde2b4a1844fe23cfde27400e7608eabeb,ruby:>= 2.3

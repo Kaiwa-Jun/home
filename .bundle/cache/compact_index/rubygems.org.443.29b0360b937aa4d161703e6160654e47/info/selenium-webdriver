@@ -185,3 +185,6 @@
 4.0.0.alpha5 childprocess:< 4.0&>= 0.5,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:16ce34dbc2971ef59dc1a15ef0a013daf92a602313d6e061708f56a3bcc87752,ruby:>= 2.4,rubygems:> 1.3.1
 4.0.0.alpha6 childprocess:< 4.0&>= 0.5,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:ed58e4c4eb92975a7934c0235e8c78abcdf19856a1b7818bbe1975d56d9e1f1f,ruby:>= 2.5,rubygems:> 1.3.1
 4.0.0.alpha7 childprocess:< 5.0&>= 0.5,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:4427ac34612c82221d693b33a0f0757bd3b338a3ed24d8c81affcdf3ced68db6,ruby:>= 2.5,rubygems:> 1.3.1
+4.0.0.beta1 childprocess:< 5.0&>= 0.5,rexml:~> 3.2,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:500a1848b4cf7b2d2399beb2bea2bced04591da54e18b91cec2784e7b3f0b388,ruby:>= 2.5,rubygems:> 1.3.1
+4.0.0.beta2 childprocess:< 5.0&>= 0.5,rexml:~> 3.2,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:1fa159f5d722615cd9d5e9517da66d0a2423332d0979a240917435eff75f1af3,ruby:>= 2.5,rubygems:> 1.3.1
+4.0.0.beta3 childprocess:< 5.0&>= 0.5,rexml:~> 3.2,rubyzip:>= 1.2.2,websocket:~> 1.0|checksum:d415bc553270daa062b8f4418fb10f85ab4c73cdaf3e13518f65ac8587dbf464,ruby:>= 2.5,rubygems:> 1.3.1

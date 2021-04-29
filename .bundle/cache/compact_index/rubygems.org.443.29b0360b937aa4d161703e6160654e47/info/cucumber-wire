@@ -8,3 +8,4 @@
 3.0.0 cucumber-core:>= 7.0.0&~> 7.0,cucumber-cucumber-expressions:>= 10.1.0&~> 10.1,cucumber-messages:>= 12.1.1&~> 12.1|checksum:d3b5b833b49a132d98ebabd5b89242110600477c926f5529695a456b878587a9,ruby:>= 2.3
 3.1.0 cucumber-core:>= 7.1.0&~> 7.1,cucumber-cucumber-expressions:>= 10.1.0&~> 10.1,cucumber-messages:>= 12.2.0&~> 12.2|checksum:730cd2364397ff3e41427b3df4df58fa814a871142efcca8581f9c8de908367c,ruby:>= 2.3
 4.0.1 cucumber-core:>= 8.0.1&~> 8.0,cucumber-cucumber-expressions:>= 10.3.0&~> 10.3,cucumber-messages:>= 13.0.1&~> 13.0|checksum:44894e483fec69082bdbcb02cfad5b5930ecad2de7e838f115632f81b9743681,ruby:>= 2.3
+5.0.0 cucumber-core:>= 9.0.0&~> 9.0,cucumber-cucumber-expressions:>= 12.1.1&~> 12.1,cucumber-messages:>= 15.0.0&~> 15.0|checksum:70325e0a7f6ef59cb82b9ed9785fa274690f68363db6d2f682c90f569af6c78b,ruby:>= 2.3
